@@ -3,4 +3,3 @@
 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/mklimnyk) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mihail-klimnyk/)
-[![Email](https://img.shields.io/badge/--linkedin?label=Email&logo=gmail&style=social)](mailto:mail@klimnyk.xyz)
