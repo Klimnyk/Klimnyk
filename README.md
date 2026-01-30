@@ -1,6 +1,6 @@
 ## Hi there! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Mikhail** and I'm a technology enthusiast with diverse interests and skills. Here's what characterizes me as a developer:
+My name is **Mykhailo Klimnyk** and I'm a technology enthusiast with diverse interests and skills. Here's what characterizes me as a developer:
 
 ## 🛠️ My Technical Interests:
 
